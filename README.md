@@ -1,5 +1,5 @@
-Quiz contains overall 5 questions.
-There is a question wise timer, so we have to answer each question within 20 seconds.
+1. Quiz contains overall 5 questions.
+2. There is a question wise timer, so we have to answer each question within 20 seconds.
 If we are failed to answer a question in the given time limit then after the completion of given time it automatically moves to the next question. If it is with the last question the quiz automatically gets submitted.
 We can see the time left at the time left corner.
 After thoroughly reading the question just click on the option that you want to mark, then the correct answer will be highlighted in green colour and if your marked answer is wrong then it will highlight in yellow colour.
